@@ -1,2 +1,2 @@
-# Desafio-GIT-Projeto-bootcamp
-Desafio criado para curso do Bootcamp Santander na DIO
+# Desafio de Projeto sobre Git/GitHub
+Repositório criado para Desafio de projeto do Bootcamp Santander na DIO
